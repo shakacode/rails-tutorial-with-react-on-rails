@@ -24,4 +24,9 @@
 /spring/*.pid
 
 # Ignore uploaded test images.
-/public/uploads
+/public/uploads# React on Rails
+npm-debug.log*
+node_modules
+
+# Generated js bundles
+/app/assets/webpack/*
